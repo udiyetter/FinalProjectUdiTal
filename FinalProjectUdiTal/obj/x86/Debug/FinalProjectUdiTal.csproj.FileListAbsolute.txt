@@ -1,0 +1,94 @@
+c:\users\udi\documents\visual studio 2010\Projects\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Udi\Documents\Visual Studio 2010\Projects\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Users\Udi\Documents\Visual Studio 2010\Projects\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Users\Udi\Documents\Visual Studio 2010\Projects\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Users\Udi\Documents\Visual Studio 2010\Projects\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Users\Udi\Documents\Visual Studio 2010\Projects\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csprojResolveAssemblyReference.cache
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csprojResolveAssemblyReference.cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.LoginForm.resources
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csproj.GenerateResource.Cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csprojResolveAssemblyReference.cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.LoginForm.resources
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.OutputForm.resources
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csproj.GenerateResource.Cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.LoginForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.OutputForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.LoginForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.OutputForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.DailyCourseBlocks.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.AgendHours.resources
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.AgendHours.resources
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.DailyCourseBlocks.resources
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.OutputForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.AgendHours.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.DailyCourseBlocks.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.LoginForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.OutputForm.resources
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe.config
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.exe
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.pdb
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\Database1.sdf
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csprojResolveAssemblyReference.cache
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.AgendHours.resources
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.DailyCourseBlocks.resources
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.LoginForm.resources
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.OutputForm.resources
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUdiTal\obj\x86\Debug\FinalProjectUdiTal.csproj.GenerateResource.Cache

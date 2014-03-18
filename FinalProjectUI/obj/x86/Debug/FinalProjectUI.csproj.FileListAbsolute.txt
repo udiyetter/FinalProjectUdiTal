@@ -1,0 +1,70 @@
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.csprojResolveAssemblyReference.cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.csprojResolveAssemblyReference.cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTalNew\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Users\udiy\Desktop\סדנה\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe.config
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe.config
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.csprojResolveAssemblyReference.cache
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Udi\לימודים\סדנה\code\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe.config
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe.config
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTal2\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe.config
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Tal Turgeman\Tal Turgeman\לימודים\סדנא- בינה עיסקית\קוד\FinalProjectUdiTalAfterUdiFixes\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\bin\Debug\Database1.sdf
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe.config
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.exe
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUI.pdb
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.exe
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\bin\Debug\FinalProjectUdiTal.pdb
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.csprojResolveAssemblyReference.cache
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.exe
+C:\Udi\work\FinalProjectUdiTal\FinalProjectUI\obj\x86\Debug\FinalProjectUI.pdb
